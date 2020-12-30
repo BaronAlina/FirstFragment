@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical"
+    android:background="@color/colorPrimary"
+    android:gravity="center">
+
+    <TextView
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="1. Math"
+        android:textSize="20dp"
+        android:gravity="center"
+        android:textColor="@android:color/white" />
+
+    <TextView
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="2. Russian language"
+        android:textSize="20dp"
+        android:gravity="center"
+        android:textColor="@android:color/white" />
+    <TextView
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="3. Literature"
+        android:textSize="20dp"
+        android:gravity="center"
+        android:textColor="@android:color/white" />
+    <TextView
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="4. Physics"
+        android:textSize="20dp"
+        android:gravity="center"
+        android:textColor="@android:color/white" />
+    <TextView
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="5. Chemistry"
+        android:textSize="20dp"
+        android:gravity="center"
+        android:textColor="@android:color/white" />
+
+</LinearLayout>
